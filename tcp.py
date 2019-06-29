@@ -28,8 +28,7 @@ def serverloop():
         client_socket.close()
 
         
-        
-        
+    
 
 if __name__ == '__main__':  # is this file executed directly (not just imported)
     print('Server launched on %s:%s, press ctrl+c to kill the server'
